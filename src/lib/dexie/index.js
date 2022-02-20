@@ -5,6 +5,10 @@ import shortcut from './shortcut'
 import star from './star'
 import sites from './sites'
 import search from './search'
+import iptv from './iptv'
+import channelList from './channelList'
+import recommendation from './recommendation'
+import cachedMovies from './cachedMovies'
 
 export {
   history,
@@ -13,5 +17,9 @@ export {
   shortcut,
   star,
   sites,
-  search
+  iptv,
+  channelList,
+  search,
+  recommendation,
+  cachedMovies
 }
